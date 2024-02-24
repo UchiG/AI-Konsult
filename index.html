@@ -475,7 +475,7 @@
                     efficiency and competitiveness.</p>
                   <p class="heading__desc mb-20">
                   </p>
-                  <a href="#" class="btn btn__white btn__bordered btn__xl btn__icon">
+                  <a href="assets/broch2.pptx" id="downloadBtn" class="btn btn__white btn__bordered btn__xl btn__icon">
                     <span>Download Brochure</span>
                     <i class="icon-arrow-right"></i>
                   </a>
@@ -852,6 +852,14 @@
   <script src="assets/js/jquery-3.5.1.min.js"></script>
   <script src="assets/js/plugins.js"></script>
   <script src="assets/js/main.js"></script>
+  <script>
+    document.getElementById("downloadBtn").addEventListener("click", function() {
+      var link = document.createElement("a");
+      link.download = "broch2.pptx";
+      link.href = "assets/broch2.pptx";
+      link.click();
+    });
+  </script>
 </body>
 
 </html>
