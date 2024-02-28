@@ -54,7 +54,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #ffffff;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 15px;
   color: #000000;
   overflow-x: hidden;
@@ -221,7 +221,7 @@ select {
 }
 
 .font-secondary {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .lh-1 {
@@ -1136,7 +1136,7 @@ h6 {
 }
 
 .heading__subtitle {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 15px;
   color: #47a145;
   margin-bottom: 12px;
@@ -4219,7 +4219,7 @@ input[type=radio] {
 
 .slider .slide__subtitle {
   display: block;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 15px;
   font-weight: 700;
   color: #f9f9f9;
@@ -5426,7 +5426,7 @@ input[type=radio] {
 }
 
 .testimonial__meta-title {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 14px;
   margin-bottom: 8px;
   white-space: nowrap;
@@ -6006,7 +6006,7 @@ input[type=radio] {
 }
 
 .widget-nav .widget-nav__content span {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 13px;
   color: #616161;
   display: block;
