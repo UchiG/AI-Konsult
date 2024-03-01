@@ -3775,7 +3775,7 @@ input[type=radio] {
     Footer
 --------------------------*/
 .footer {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 .footer .footer-primary {
@@ -3788,7 +3788,7 @@ input[type=radio] {
 }
 
 .footer .footer-widget__title {
-  color: #ffffff;
+  color: #000000;
   font-size: 17px;
   text-transform: capitalize;
   margin-bottom: 35px;
@@ -3854,7 +3854,7 @@ input[type=radio] {
 }
 
 .footer .footer-form .footer-form__submit:hover {
-  color: #ffffff;
+  color: #000000;
   background-color: #47a145;
 }
 
@@ -3867,7 +3867,7 @@ input[type=radio] {
 .footer .footer-widget-nav li a {
   display: block;
   position: relative;
-  color: #f9f9f9;
+  color: #000000;
   font-size: 14px;
   margin-bottom: 11px;
 }
@@ -3882,7 +3882,7 @@ input[type=radio] {
 
 .footer .social-icons li a {
   font-size: 18px;
-  color: #ffffff;
+  color: #000000;
 }
 
 .footer .social-icons li a:hover {
@@ -3912,7 +3912,7 @@ input[type=radio] {
 }
 
 .footer .footer-secondary .footer__copyrights {
-  color: #f9f9f9;
+  color: #000000;
 }
 
 .footer-light {
@@ -4227,7 +4227,7 @@ input[type=radio] {
 }
 
 .slider .slide__title {
-  font-size: 60px;
+  font-size: 75px;
   font-weight: 800;
   line-height: 1.1;
   color: #ffffff;
