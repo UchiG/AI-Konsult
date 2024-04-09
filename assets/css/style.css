@@ -3705,7 +3705,7 @@ input[type=radio] {
 .accordion-item .accordion__title {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 13px;
   cursor: pointer;
   display: block;
   position: relative;
